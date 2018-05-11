@@ -1,0 +1,7 @@
+C:\Users\GMR\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\GMR\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\GMR\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\FirefoxStartDark.exe.config
+C:\Users\GMR\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\FirefoxStartDark.exe
+C:\Users\GMR\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\FirefoxStartDark.pdb
+C:\Users\GMR\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\FirefoxStartDark.exe
+C:\Users\GMR\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\FirefoxStartDark.pdb
