@@ -1,0 +1,7 @@
+D:\Github\firefoxdarknewtab\FirefoxDarkNewTab\bin\Debug\FirefoxDarkNewTab.exe.config
+D:\Github\firefoxdarknewtab\FirefoxDarkNewTab\bin\Debug\FirefoxDarkNewTab.exe
+D:\Github\firefoxdarknewtab\FirefoxDarkNewTab\bin\Debug\FirefoxDarkNewTab.pdb
+D:\Github\firefoxdarknewtab\FirefoxDarkNewTab\obj\Debug\FirefoxDarkNewTab.csprojResolveAssemblyReference.cache
+D:\Github\firefoxdarknewtab\FirefoxDarkNewTab\obj\Debug\FirefoxDarkNewTab.csproj.CoreCompileInputs.cache
+D:\Github\firefoxdarknewtab\FirefoxDarkNewTab\obj\Debug\FirefoxDarkNewTab.exe
+D:\Github\firefoxdarknewtab\FirefoxDarkNewTab\obj\Debug\FirefoxDarkNewTab.pdb
