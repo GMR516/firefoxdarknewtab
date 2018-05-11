@@ -1,6 +1,9 @@
 # Firefox Dark New Tab
 Easily change Firefox Quantum's new tab to a dark theme.
 
+# Download
+[Click to Download](https://github.com/GMR516/firefoxdarknewtab/releases/download/0.1.0/FirefoxDarkNewTab.exe)
+
 ## How do I do this manually?
 Simply put this .css code into \[YourFireFoxInstallFolder\]\chrome\userContent.css
 (Yes, you put the code for FIREFOX into a folder called CHROME. Weird.)
