@@ -1,33 +1,22 @@
-# Firefox Dark New Tab
-Easily change Firefox Quantum's new tab to a dark theme.
+# Firefox Dark(er) Installer
+Easily change Firefox Quantum's many pages to a dark theme.
 
 # Download
 [Click to Download](https://github.com/GMR516/firefoxdarknewtab/releases/download/0.1.0/FirefoxDarkNewTab.exe)
 
-## How do I do this manually?
-Simply put this .css code into \[YourFireFoxInstallFolder\]\chrome\userContent.css
-(Yes, you put the code for FIREFOX into a folder called CHROME. Weird.)
-~~~~
-@-moz-document url(about:newtab) {
-    .activity-stream {
-        background-color: #333333 !important;
-    }
-    .top-sites-list .top-site-outer > a {
-        color: #dddddd !important;
-    }
-    .tile {
-      filter: grayscale(42%) !important;
-      opacity: .9 !important;
-    }
-    @media (min-width: 1280px) {
-      .activity-stream main {
-        width: 989px !important;
-      }
-    }
-    .tabbrowser-tabbox { 
-      background-color: #000000 !important; 
-    } 
-}
-~~~~
+## What is this for?
+When I set my theme to dark in Firefox, I expect a dark theme. This program will make the Firefox dark theme darker. It changes most, if not all UI elements that are white to another, darker, easier on the eyes color.
 
-And then simply restart Firefox.
+For instance,
+
+POPOUT WINDOW
+
+![Light](https://i.imgur.com/p440DHv.png) ![Dark](https://i.imgur.com/SOb1pXV.png)
+
+NEW TAB PAGE
+![NTLight](https://i.imgur.com/8KHJlBU.png)
+![NTDark](https://i.imgur.com/299psTg.png)
+
+
+
+Simply download, run, press 'y' and return.
